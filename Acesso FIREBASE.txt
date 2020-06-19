@@ -1,0 +1,6 @@
+Para acessar o projeto criado dentro do Firebase, acesse o link:  https://projetopi-ce1f8.firebaseio.com/
+
+E entre com a seguinte conta do google:
+
+Usuario: techcyclepi@gmail.com
+Senha: projetopi
